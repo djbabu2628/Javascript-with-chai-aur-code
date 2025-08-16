@@ -1,3 +1,4 @@
+"use strict";
 const accountId = 28092006;
 let Email = "vivek@gmail.com";
 var accountPass = "vivek@123";
